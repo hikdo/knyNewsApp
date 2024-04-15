@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-KnyNews, News Spider With AdBlock, Base on GeekNews, A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
+KnyNews, Base on GeekNews, Common News Spider With AdBlock, All In One App (Web3, Zhihu, Weibo, Douban ..)
 
 Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide + Jsoup + AdBlock
 
